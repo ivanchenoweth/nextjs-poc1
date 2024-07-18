@@ -37,6 +37,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Flollow tutorial
 [Next.js React Framework Course – Build and Deploy a Full Stack App From scratch]
+
+## Branch 0_20-File-Structure
+
 (https://www.youtube.com/watch?v=KjY94sAKLlw&ab_channel=freeCodeCamp.org) 0:22:05
 https://nextjs.org/docs/getting-started/installation
+
+https://nextjs.org/docs/app/building-your-application/routing/defining-routes
 
